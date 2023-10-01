@@ -1,2 +1,2 @@
 # sixthdegree
-Work website
+You are Dead!
